@@ -1,4 +1,4 @@
-# 🍚 Modern UI On Lua
+# 🍚 Modern UI In Lua
 
  Instruction:
   1. Upload to folder - addon
