@@ -1,3 +1,4 @@
+-- Size setup optimal
 function weight(x)
     return x/1920*ScrW()
 end
