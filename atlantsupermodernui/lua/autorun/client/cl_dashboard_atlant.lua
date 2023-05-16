@@ -1,4 +1,4 @@
--- Size setup optimal screen
+-- Size setup optimal scr
 function weight(x)
     return x/1920*ScrW()
 end
